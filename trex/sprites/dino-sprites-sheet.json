@@ -1,0 +1,39 @@
+{"frames": {
+
+"dino-sheet-1.png":
+{
+	"frame": {"x":0,"y":0,"w":88,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":94},
+	"sourceSize": {"w":88,"h":94}
+},
+"dino-sheet-3.png":
+{
+	"frame": {"x":88,"y":0,"w":88,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":94},
+	"sourceSize": {"w":88,"h":94}
+},
+"dino-sheet-4.png":
+{
+	"frame": {"x":176,"y":0,"w":88,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":94},
+	"sourceSize": {"w":88,"h":94}
+}},
+"animations": {
+	"dino-sheet": ["dino-sheet-1.png","dino-sheet-3.png","dino-sheet-4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dino-sprites-sheet.png",
+	"format": "RGBA8888",
+	"size": {"w":264,"h":94},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:524fff408c34475e72cd9ef87f980216:570d82c5f0be9ee184a8be6f41e1d014:c076b52f9ce284b609cc3815679711af$"
+}
+}

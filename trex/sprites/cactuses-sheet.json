@@ -1,0 +1,64 @@
+{"frames": {
+
+"cactus-1.png":
+{
+	"frame": {"x":1,"y":273,"w":48,"h":98},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":98},
+	"sourceSize": {"w":48,"h":98}
+},
+"cactus-2.png":
+{
+	"frame": {"x":1,"y":173,"w":98,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":98},
+	"sourceSize": {"w":98,"h":98}
+},
+"cactus-3.png":
+{
+	"frame": {"x":1,"y":1,"w":102,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":98},
+	"sourceSize": {"w":102,"h":98}
+},
+"little-cactus-1.png":
+{
+	"frame": {"x":71,"y":323,"w":34,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":70},
+	"sourceSize": {"w":34,"h":70}
+},
+"little-cactus-2.png":
+{
+	"frame": {"x":1,"y":323,"w":68,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":70},
+	"sourceSize": {"w":68,"h":70}
+},
+"little-cactus-3.png":
+{
+	"frame": {"x":1,"y":101,"w":102,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":70},
+	"sourceSize": {"w":102,"h":70}
+}},
+"animations": {
+	"cactus": ["cactus-1.png","cactus-2.png","cactus-3.png"],
+	"little-cactus": ["little-cactus-1.png","little-cactus-2.png","little-cactus-3.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cactuses-sheet.png",
+	"format": "RGBA8888",
+	"size": {"w":106,"h":394},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c71c71a4d6feeba413cba4dc798ba3e2:6a6f8c83ee499472258451f66051471e:33eb5bdff5a5a31d83c211063c6854c9$"
+}
+}

@@ -1,0 +1,31 @@
+{"frames": {
+
+"downDino-1.png":
+{
+	"frame": {"x":0,"y":0,"w":110,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":56},
+	"sourceSize": {"w":110,"h":56}
+},
+"downDino-2.png":
+{
+	"frame": {"x":110,"y":0,"w":110,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":56},
+	"sourceSize": {"w":110,"h":56}
+}},
+"animations": {
+	"downDino": ["downDino-1.png","downDino-2.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "downDino-sheet.png",
+	"format": "RGBA8888",
+	"size": {"w":220,"h":56},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f6c6026ce4932f5d16d45cd310f1b5ca:de1c84b010a8512d13e597c7303d1e5e:9e37dfc11fd8c40373563df36a6bc477$"
+}
+}
